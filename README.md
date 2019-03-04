@@ -1,9 +1,7 @@
-# Battle-Station-Objected-Oriented-Application-Development
-
-##Project: BattleStations
+# Project: BattleStations
 Expected Effort (approx): 40 hours per person
 
-## Suggested Milestones
+### Suggested Milestones
 The project scenario will be used in the quizzes and lab tests. You will need to work on it to
 do well in the assessments. The following milestones are suggested:
 
