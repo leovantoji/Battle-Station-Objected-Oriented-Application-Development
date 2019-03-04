@@ -1,0 +1,2 @@
+ID,Inventory,Description,Name,Status,Level,Capacity,HP,Range,MinDamage,MaxDamage,Original MinDamage,Original MaxDamage,Weight,Speed,Owner
+1,Weapon,Cannon,Steam Cannon,false,1,0,0,900,35,50,35,50,80,0,linting

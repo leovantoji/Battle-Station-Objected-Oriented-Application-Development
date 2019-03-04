@@ -1,0 +1,18 @@
+#Name,Speed,HP,Capacity,Weight,Level Required,Gold,Wood,Ore,Plasma Rock,Port
+Stormbringer Sail,210,0,0,500,95,110000,1500,0,7,Imperial City Port
+Blade Sail,190,0,0,450,85,80000,2000,0,5,Imperial City Port
+Draft Net,170,0,0,300,75,50000,1000,0,3,Imperial City Port
+Gale Force,150,0,0,250,65,20000,90,20,1,Imperial City Port
+Advanced Sail,125,0,0,225,55,15000,45,15,1,Imperial City Port
+Solar Sail,100,0,0,200,45,9000,85,0,1,Imperial City Port
+Demon Sail,125,0,0,160,40,8000,80,10,0,RARE
+Triple Sails,75,0,0,160,35,4000,60,5,0,Imperial City Port
+Bomb Sail,70,0,0,120,30,1000,55,1,0,RARE
+Twin Sails,50,0,0,120,25,3500,40,0,0,Imperial City Port
+Swashbuckler Sail,55,0,0,80,20,4000,35,1,0,RARE
+Great Sail,35,0,0,80,15,2000,20,0,0,Imperial City Port
+Pirate Sail,35,0,0,50,10,2000,20,0,0,RARE
+Standard Sail,20,0,0,50,5,500,0,0,0,Imperial City Port
+Christmas Sail,25,0,0,20,2,1000,10,0,1,RARE
+Tshirt Sail,35,0,0,60,10,0,0,0,0,FREE
+Basic Sail,10,0,0,30,1,100,0,0,0,Imperial City Port

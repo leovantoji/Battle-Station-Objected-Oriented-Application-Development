@@ -1,0 +1,17 @@
+#Ship,Speed,HP,Slots,Capacity,Level Required,Gold,Wood,Ore,Plasma Rock,Port
+Windrider,120,1475,3,800,1,5750,9,0,0,Imperial City Port
+Albatross,125,4000,4,2050,10,73250,184,36,0,Imperial City Port
+Enterprise,150,1950,2,2950,10,66300,175,36,0,Imperial City Port
+Manta,175,2200,3,2450,15,122000,310,66,0,Imperial City Port
+Aegis,100,10750,4,3625,25,170000,215,120,1,Imperial City Port
+Vanguard,140,7625,4,3725,30,323500,519,221,2,Imperial City Port
+Hammerhead,200,6875,4,4125,30,293500,489,221,3,Imperial City Port
+Merchant O' War,165,7125,3,5125,30,158000,330,115,2,Imperial City Port
+Cargo Dirigible,175,8500,4,8750,45,563000,775,195,2,Imperial City Port
+Obsidian Destroyer,100,18000,5,6250,45,425000,630,220,3,Imperial City Port
+Battle Royale,155,15000,6,6900,50,575000,460,235,4,Imperial City Port
+Trident,235,7250,4,7075,50,450000,475,190,4,Imperial City Port
+Endeavor,245,14250,5,12750,70,3000000,1050,385,18,Imperial City Port
+Ballista,350,11250,7,7500,75,4572000,1531,750,32,Imperial City Port
+Goliath,70,22500,6,9500,75,2562500,800,475,20,Imperial City Port
+Katana,200,17500,7,10250,75,3125000,700,460,23,Imperial City Port

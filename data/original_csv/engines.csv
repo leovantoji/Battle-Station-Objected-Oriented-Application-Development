@@ -1,0 +1,12 @@
+#Name,Speed,HP,Capacity,Weight,Level Required,Gold,Wood,Ore,Plasma Rock,Port
+Mega Thrusters,225,0,0,700,100,150000,0,80,6,Imperial City Port
+Plasma Fuel Cells,200,0,0,550,90,90000,0,70,5,Imperial City Port
+Smuggler Drive,175,0,0,350,80,70000,20,60,4,Imperial City Port
+Flux Generator,150,0,0,200,70,50000,0,50,3,Imperial City Port
+Imperial Ship Drive,125,0,0,225,60,25000,100,25,1,Imperial City Port
+Super Charger,100,0,0,150,50,10000,0,0,1,Imperial City Port
+Fuel Injector,75,0,0,125,40,7500,0,20,0,Imperial City Port
+Timing Valve,50,0,0,100,30,5000,0,10,0,Imperial City Port
+Solid Booster,35,0,0,75,20,3500,50,0,0,Imperial City Port
+Turbo Charger,25,0,0,50,10,2000,15,0,0,Imperial City Port
+Cold Air Intake,10,0,0,25,1,250,0,0,0,Imperial City Port

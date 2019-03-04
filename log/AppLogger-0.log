@@ -1,0 +1,8 @@
+Mar 07, 2013 12:02:55 PM logger.BSLogger log
+INFO: Successful Login: User name: "linting" Password entered: "linting"
+ User logged in: linting.
+
+Mar 07, 2013 12:03:56 PM logger.BSLogger log
+INFO: User: "linting" just logged out.
+ No User logged in yet.
+

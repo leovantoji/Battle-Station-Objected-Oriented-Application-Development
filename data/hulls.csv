@@ -1,0 +1,22 @@
+#Name,Speed,HP,Capacity,Weight,Level Required,Gold,Wood,Ore,Plasma Rock,Port
+Grand Armor,-100,10000,0,1500,100,250000,0,150,8,Imperial City Port
+Thrust Hull,50,4500,0,750,95,150000,0,75,10,Imperial City Port
+Kraken Shell,-100,8000,500,0,90,130000,0,100,7,Imperial City Port
+Cleaver Hull,35,3500,0,500,82,100000,30,60,5,Imperial City Port
+Ablative Shell,-110,8500,0,1000,82,100000,20,80,5,Imperial City Port
+Energised Plating,-100,7500,0,600,70,65000,0,50,3,Imperial City Port
+Bullet Hull ,30,2800,0,380,65,50000,0,30,2,Imperial City Port
+Imperial Battle Armor,-75,5000,0,550,60,50000,0,100,0,Imperial City Port
+Armored Expansion,-35,1000,500,0,50,50000,0,50,0,Imperial City Port
+Stealth Sheath,25,2250,0,275,50,45000,0,25,1,Imperial City Port
+Imperial Standard Plating,-50,3000,0,450,45,20000,0,35,0,Imperial City Port
+Alloy Plating,-35,2500,0,300,40,10000,0,80,0,RARE
+Advanced Plating,10,1250,0,250,40,10500,0,25,0,Imperial City Port
+Shield Armor,-45,1800,0,300,35,8500,0,10,0,Imperial City Port
+Cargo Hold,-25,0,300,0,30,8500,0,10,0,Imperial City Port
+Aero Dynamic Hull,5,750,0,0,25,7500,50,0,0,Imperial City Port
+Heavy Armor,-35,1000,0,150,20,5000,30,10,0,Imperial City Port
+Compound Armor,-25,500,0,100,15,3500,5,5,0,Imperial City Port
+Expanded Cabin,-15,0,150,0,10,2000,50,0,0,Imperial City Port
+Light Armor,-15,300,0,75,10,2000,5,0,0,Imperial City Port
+Reinforced Hull,-10,100,0,50,1,300,0,0,0,Imperial City Port

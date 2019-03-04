@@ -1,0 +1,10 @@
+#Name,Range,Min Damage,Max Damage,Weight,Level Required,Gold,Wood,Ore,Plasma Rock,Port
+Dark Blade,100,4000,7500,3000,100,0,0,0,25,RARE
+Dragon Pillar,50,3950,5000,3000,95,500000,1000,300,8,Imperial City Port
+Mast Slicer,50,3500,4000,2500,85,230000,700,150,5,Imperial City Port
+Power Claw,50,3000,3500,2150,75,150000,400,100,3,Imperial City Port
+Pile Driver,50,2000,3000,1850,65,75000,0,100,3,Imperial City Port
+Chainsaw Blade,50,2000,5000,1600,60,75000,0,75,3,RARE
+Ramming Piston,50,1750,2250,1500,50,50000,0,50,2,Imperial City Port
+Giga Drill Breaker,50,1500,2000,1250,40,15000,0,45,1,RARE
+Battering Ram,50,750,1250,750,20,5000,50,10,0,Imperial City Port
